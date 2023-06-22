@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer, nav, aside, section, div  {
+    display: block;
+}
+
+main {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#category-list{
+
+    font-family: 'Amiko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color:black;
+    text-decoration: underline;
+
+}
+
+#book-list{
+    font-family: 'Amiko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color:black;
+    text-decoration: underline;
+}
+
+h1{
+    color:rgb(13, 198, 96);
+    left: 40px;
+    text-decoration: underline;
+}
+
+h2{
+    color:rgba(9, 120, 26, 0.386) ;
+}
+
+.cat1{
+    color: rgb(54, 164, 67);
+    font-weight: 250px;
+    font-size: 20px;
+}
+
+p{
+    color: rgb(0, 165, 146);
+    font-weight: 250px;
+    font-size: 20px;
+    
+}
+
